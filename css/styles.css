@@ -23,9 +23,11 @@ h1{text-align: center;
           color:lightslategrey;
           font-style: italic;}
 
-img{max-width:100%;
-    float: right;}      
+img{max-width:55%;}
 
+.image h2 {color: antiquewhite;}   
 
 .image{width:30%;
-       float:inline-start;}
+       float:right;}
+
+    
