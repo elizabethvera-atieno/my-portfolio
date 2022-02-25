@@ -1,1 +1,8 @@
-body{background-image:none;}
+body{background-color: bisque;}
+
+h1{text-align: center;
+    color:darkred;
+    font-size:3cm;
+    font-weight: bolder;
+    font-style:oblique;}
+    
