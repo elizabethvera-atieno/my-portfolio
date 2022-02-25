@@ -15,5 +15,12 @@ h1{text-align: center;
      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      font-style:oblique;}
 
+.about p {color:brown;
+          font-weight:400;}
+
+.about ul{line-height: 0.7cm;
+          color:lightslategrey;
+          font-style: italic;}
+
 
 
