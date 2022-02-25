@@ -1,4 +1,5 @@
-body{background-image: url("../images/background.jpg");}
+body{background-image: url("../images/background.jpg");
+     background-size: 45cm;}
 
 h1{text-align: center;
     color:darkred;
@@ -22,5 +23,9 @@ h1{text-align: center;
           color:lightslategrey;
           font-style: italic;}
 
+img{max-width:100%;
+    float: right;}      
 
 
+.image{width:30%;
+       float:inline-start;}
