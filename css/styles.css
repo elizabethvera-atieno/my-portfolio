@@ -1,33 +1,59 @@
-body{background-image: url("../images/background.jpg");
-     background-size: 45cm;}
+body {
+  background-image: url("../images/background.jpg");
+  background-size: 45cm;
+}
 
-h1{text-align: center;
-    color:darkred;
-    font-size:3cm;
-    font-weight: bolder;
-    font-style:oblique;}
+h1 {
+  text-align: center;
+  color: darkred;
+  font-size: 3cm;
+  font-weight: bolder;
+  font-style: oblique;
+}
 
-.about{width: 50%;
-       float:left;
-       background-color:lightblue;}
+.about {
+  width: 50%;
+  float: left;
+  background-color: lightblue;
+}
 
-.name{color: darkred;
-     font-weight: bolder;
-     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     font-style:oblique;}
+.name {
+  color: darkred;
+  font-weight: bolder;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: oblique;
+}
 
-.about p {color:brown;
-          font-weight:400;}
+.about p {
+  color: brown;
+  font-weight: 400;
+  text-indent: 5%;
+}
 
-.about ul{line-height: 0.7cm;
-          color:lightslategrey;
-          font-style: italic;}
+.about ul {
+  line-height: 0.7cm;
+  color: lightslategrey;
+  font-style: italic;
+}
 
-img{max-width:55%;}
+img {
+  max-width: 100%;
+}
 
-.image h2 {color: antiquewhite;}   
+.image h2 {
+  color: antiquewhite;
+}
 
-.image{width:30%;
-       float:right;}
+.image {
+  width: 50%;
+  float: right;
+  background-color:black;
+}
 
-    
+.projects{ color: aquamarine;}
+
+.projects h2 {
+  border: 2px solid lime;
+  color: chartreuse;
+  font-weight: bolder;
+}
