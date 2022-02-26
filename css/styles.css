@@ -50,7 +50,9 @@ img {
   background-color:black;
 }
 
-.projects{ color: aquamarine;}
+.projects{ color: aquamarine;
+    font-size: larger;
+}
 
 .projects h2 {
   border: 2px solid lime;
