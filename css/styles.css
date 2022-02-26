@@ -66,3 +66,7 @@ img {
     font-weight: bolder;
     font-size:x-large;
 }
+
+.container{
+    overflow: auto;
+}
