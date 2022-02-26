@@ -28,7 +28,7 @@ h1 {
   color: brown;
   font-weight: 400;
   text-indent: 5%;
-  font-size:large;
+  font-size: large;
 }
 
 .about ul {
@@ -49,11 +49,12 @@ img {
 .image {
   width: 50%;
   float: right;
-  background-color:black;
+  background-color: black;
 }
 
-.projects{ color: aquamarine;
-    font-size: larger;
+.projects {
+  color: aquamarine;
+  font-size: larger;
 }
 
 .projects h2 {
@@ -63,10 +64,10 @@ img {
 }
 
 .projects strong {
-    font-weight: bolder;
-    font-size:x-large;
+  font-weight: bolder;
+  font-size: x-large;
 }
 
-.container{
-    overflow: auto;
+.container {
+  overflow: auto;
 }
