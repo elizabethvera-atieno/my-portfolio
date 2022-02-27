@@ -41,6 +41,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](# My-portfolio)
+## Live link
+* My-portfolio - [My-portfolio]( https://elizabethvera-atieno.github.io/my-portfolio/)
+
 ## Authors Info)
  * Github - [elizabethvera-atieno](https://github.com/elizabethvera-atieno)
 * LinkedIn - [Lizvera Atieno](https://www.linkedin.com/in/lizvera-atieno-1590b322b/)
